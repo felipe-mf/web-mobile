@@ -1,7 +1,7 @@
 {
-  "name": "auladois",
+  "name": "web-mobile",
   "version": "1.0.0",
-  "description": "",
+  "description": "api for web mobile college discipline",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -18,5 +18,18 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe-mf/web-mobile.git"
+  },
+  "keywords": [
+    "api",
+    "web",
+    "mobile"
+  ],
+  "bugs": {
+    "url": "https://github.com/felipe-mf/web-mobile/issues"
+  },
+  "homepage": "https://github.com/felipe-mf/web-mobile#readme"
 }
